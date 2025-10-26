@@ -5,11 +5,15 @@ export const siteConfig = {
   description: "Datasets used in the paper 'Background-invariant re-identification of dogs from camera-trap videos in non-controlled environments'",
   navItems: [
     {
-      label: "About",
+      label: "YT-BB-Dog",
       href: "/",
     },
     {
-      label: "Download",
+      label: "Sibetan",
+      href: "/",
+    },
+    {
+      label: "Weights",
       href: "/",
     },
     {
